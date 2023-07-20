@@ -1,0 +1,75 @@
+.container {
+    text-align: center;
+    background-color: #8CC0DE;
+    padding: 30px;   
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+.form-group{
+
+    margin: 20px;
+    width: auto;
+}
+.form-control{
+    margin-top: 10px;
+}
+
+li{
+    text-align: left;
+    font-weight: bold;
+    color: rgb(21, 20, 20);
+    list-style-type: decimal;
+
+}
+
+button{
+    margin-left: 3px;
+}
+
+.list{
+    width: 43%;
+    margin: auto;
+}
+
+#edit{
+    color: blue;
+}
+
+#complete{
+    color: green;
+}
+
+#delete{
+    color: red;
+}
+
+.icons{
+    padding-left: 450px;
+    margin-top: -19px;
+    padding-top: 1px;
+}
+
+.list-item-icons {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.icons {
+    display: flex;
+}
+
+.list-items{
+    margin-bottom: 10px;
+ 
+}
+
+#list-item{
+    text-decoration: line-through;
+    opacity: 0.3;
+    cursor: pointer;
+}
